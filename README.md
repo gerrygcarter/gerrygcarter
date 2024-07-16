@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-For information about my work, see my website socialbat.org.
+For information about my work, see my website  
+[Carter Lab](https://socialbat.org)
 <!--
 **gerrygcarter/gerrygcarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
